@@ -1,9 +1,9 @@
 {
   "name": "linjian-unified-mcp",
-  "version": "0.1.8-hf",
+  "version": "0.1.9",
   "private": true,
   "type": "module",
-  "description": "Unified MCP server for 掌心窗 on Hugging Face Spaces.",
+  "description": "Unified MCP server for 掌心窗: screenshot, phone control, alarm, notification.",
   "scripts": {
     "start": "node server.js"
   },
